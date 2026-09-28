@@ -16,5 +16,8 @@ jobs:
       - name: Say Hello
         run: echo "Hello Abhishek! GitHub Actions is working."
 
+      - name: Say Boloji
+        run: echo "Boloji Boloji."  
+
       - name: Show files
         run: ls -la
